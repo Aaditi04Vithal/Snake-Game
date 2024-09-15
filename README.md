@@ -1,2 +1,2 @@
-** SNAKE GAME **
+# SNAKE GAME
 
